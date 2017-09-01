@@ -1,0 +1,140 @@
+
+Check size started
+Tue Aug  1 08:04:57 UTC 2017
+DROP:
+ERROR 1008 (HY000) at line 1: Can't drop database 'zabbix_test'; database doesn't exist
+Tue Aug  1 08:04:57 UTC 2017
+CREATE:
+Disk usage of mysql:
+324M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (innodb):
+Tue Aug  1 08:04:57 UTC 2017
+Done
+Tue Aug  1 08:08:32 UTC 2017
+Disk usage of mysql:
+2.2G	/var/lib/mysql
+DROP:
+Tue Aug  1 08:08:39 UTC 2017
+CREATE:
+Disk usage of mysql:
+324M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (innodb):
+Tue Aug  1 08:08:39 UTC 2017
+ERROR 1105 (HY000) at line 81: Can't execute updates on master with binlog_format != ROW.
+Done
+Tue Aug  1 08:08:39 UTC 2017
+Disk usage of mysql:
+325M	/var/lib/mysql
+Check size started
+Tue Aug  1 08:09:54 UTC 2017
+DROP:
+Tue Aug  1 08:09:54 UTC 2017
+CREATE:
+Disk usage of mysql:
+325M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (innodb):
+Tue Aug  1 08:09:54 UTC 2017
+Done
+Tue Aug  1 11:48:28 UTC 2017
+Disk usage of mysql:
+8.4G	/var/lib/mysql
+DROP:
+Tue Aug  1 11:48:39 UTC 2017
+CREATE:
+Disk usage of mysql:
+325M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (innodb):
+Tue Aug  1 11:48:39 UTC 2017
+ERROR 1105 (HY000) at line 81: Can't execute updates on master with binlog_format != ROW.
+Done
+Tue Aug  1 11:48:40 UTC 2017
+Disk usage of mysql:
+325M	/var/lib/mysql
+Check size started
+Tue Aug  1 11:59:06 UTC 2017
+DROP:
+Tue Aug  1 11:59:06 UTC 2017
+CREATE:
+Disk usage of mysql:
+325M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (innodb):
+Tue Aug  1 11:59:06 UTC 2017
+Done
+Tue Aug  1 12:00:41 UTC 2017
+Disk usage of mysql:
+1.2G	/var/lib/mysql
+DROP:
+Tue Aug  1 12:00:42 UTC 2017
+CREATE:
+Disk usage of mysql:
+325M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (rocksdb):
+Tue Aug  1 12:00:42 UTC 2017
+ERROR 1105 (HY000) at line 81: Can't execute updates on master with binlog_format != ROW.
+Done
+Tue Aug  1 12:00:42 UTC 2017
+Disk usage of mysql:
+325M	/var/lib/mysql
+DROP:
+Tue Aug  1 12:03:10 UTC 2017
+CREATE:
+Disk usage of mysql:
+325M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (rocksdb):
+Tue Aug  1 12:03:10 UTC 2017
+ERROR 1105 (HY000) at line 81: Can't execute updates on master with binlog_format != ROW.
+Done
+Tue Aug  1 12:03:10 UTC 2017
+Disk usage of mysql:
+325M	/var/lib/mysql
+DROP:
+Tue Aug  1 13:46:30 UTC 2017
+CREATE:
+Disk usage of mysql:
+326M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (rocksdb):
+Tue Aug  1 13:46:30 UTC 2017
+Done
+Thu Aug  3 10:33:37 UTC 2017
+Disk usage of mysql:
+12G	/var/lib/mysql
+DROP:
+Thu Aug  3 10:35:06 UTC 2017
+CREATE:
+Disk usage of mysql:
+11G	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (rocksdb):
+Thu Aug  3 10:35:06 UTC 2017
+Purge binary logs:
+DROP:
+Thu Aug  3 10:46:32 UTC 2017
+CREATE:
+Disk usage of mysql:
+1.4G	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (rocksdb):
+Thu Aug  3 10:46:32 UTC 2017
+Done
+Thu Aug  3 10:46:32 UTC 2017
+Disk usage of mysql:
+1.4G	/var/lib/mysql
+Purge binary logs:
+DROP:
+Thu Aug  3 11:08:31 UTC 2017
+CREATE:
+Disk usage of mysql:
+337M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (rocksdb):
+Thu Aug  3 11:08:32 UTC 2017
+Done
+Thu Aug  3 11:08:32 UTC 2017
+Disk usage of mysql:
+337M	/var/lib/mysql
+ERROR 2006 (HY000) at line 40: MySQL server has gone away
+Purge binary logs:
+DROP:
+Thu Aug  3 11:38:47 UTC 2017
+CREATE:
+Disk usage of mysql:
+337M	/var/lib/mysql
+Load data (/home/admin/zabbixnew.sqldump.gz) start (rocksdb):
+Thu Aug  3 11:38:48 UTC 2017
